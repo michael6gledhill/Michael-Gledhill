@@ -1,9 +1,9 @@
 {
-  "name": "Your Name",
-  "rank": "Cadet Colonel",
+  "name": "Michael Gledhill",
+  "rank": "Cadet Captain",
   "branch": "Civil Air Patrol",
-  "unit": "[Your Unit Number and Name]",
-  "missionStatement": "Developing the next generation of aerospace leaders through integrity, excellence, and service",
+  "unit": "Hartland Composite Squadron, Kentucky Wing",
+  "missionStatement": "Motivated to serve as a U.S. Air Force pilot while advancing aerospace education and leadership excellence",
   
   "logos": {
     "wingLogo": "images/kentucky-wing-logo.png",
@@ -12,96 +12,185 @@
   },
   
   "contact": {
-    "email": "your.email@example.com",
-    "phone": "(123) 456-7890",
-    "linkedin": "https://linkedin.com/in/yourprofile",
-    "github": "https://github.com/yourprofile"
+    "email": "c_mgledhill@kywg.cap.gov",
+    "phone": "(270) 774-1565",
+    "address": "906 Silktree Cir, Elizabethtown, KY 42701",
+    "linkedin": "https://linkedin.com/in/michaelgledhill",
+    "github": "https://github.com/michaelgledhill"
   },
-  
+  "bio": "Motivated Civil Air Patrol cadet with strong leadership, cybersecurity, and aviation experience. Proven under pressure, highly driven, and committed to excellence. Passionate about aerospace, technology, and service. Aspires to become a U.S. Air Force pilot with interests in commercial aviation and aircraft systems or maintenance engineering.",
   "bio": "As a dedicated Civil Air Patrol cadet, I am committed to advancing aerospace education and developing leadership skills. My journey through CAP has been marked by progressive responsibility, mentoring younger cadets, and a passion for aviation. I believe in leading by example and fostering a culture of excellence within our squadron.",
   
-  "capInvolvement": "I have been actively involved in Civil Air Patrol for [X] years. During this time, I have progressed through multiple ranks, held key leadership positions, and contributed to the CAP's core missions of aerospace education, emergency services, and cadet development. My CAP experience has shaped my values of integrity, leadership, and service to community.",
+  "capInvolvement": "Since June 2023, I have advanced quickly through the CAP ranks to Cadet Captain, earning honor credit through the Mitchell Award. On track for promotion to Captain in September 2025. I have held multiple leadership roles including Cadet Commander, Flight Commander, Public Affairs Officer, and served as CAC Representative at Group and Wing levels. My CAP experience has shaped my values of integrity, leadership, and service to community.",
   
   "experience": [
     {
+      "date": "2025",
+      "title": "ATS Flight Commander",
+      "description": "Led flight operations at Ohio Wing Summer Encampment 2025, overseeing cadet training and mission execution."
+    },
+    {
+      "date": "2025",
+      "title": "Cadet Training Officer & PAO",
+      "description": "Managed training operations and public affairs for Kentucky Wing Encampment 2025, supporting 200+ cadets."
+    },
+    {
+      "date": "2025",
+      "title": "Power Flight Academy Graduate",
+      "description": "Completed advanced pilot training with approximately 9 hours logged, including solo flight at Fremont, Nebraska."
+    },
+    {
+      "date": "2025",
+      "title": "Aircraft Manufacturing Academy",
+      "description": "Participated in intensive aerospace manufacturing program at Wichita, Kansas, learning aircraft systems and production."
+    },
+    {
       "date": "2024 - Present",
-      "title": "Squadron Cadet Commander",
-      "description": "Leading a squadron of 40+ cadets. Responsible for squadron operations, training programs, development of subordinate officers, and mission execution."
+      "title": "Cadet Captain / Multiple Leadership Roles",
+      "description": "Serve as Cadet Commander, Flight Commander, Public Affairs Officer, Aerospace & Communications NCO, and CAC Representative. Earned Mitchell Award honor credit."
     },
     {
-      "date": "2023 - 2024",
-      "title": "Deputy Squadron Cadet Commander",
-      "description": "Supported the cadet commander in all squadron operations. Oversaw cadet training programs and drill team leadership."
-    },
-    {
-      "date": "2022 - 2023",
-      "title": "Flight Commander",
-      "description": "Commanded a flight of 10 cadets. Responsible for flight training, discipline, and readiness. Developed and executed weekly training plans."
-    },
-    {
-      "date": "2021 - 2022",
-      "title": "Element Leader",
-      "description": "Led an element of 4 cadets. Mentored junior cadets and represented my element in squadron activities."
-    },
-    {
-      "date": "2020 - 2021",
-      "title": "Cadet Airman Basic",
-      "description": "Joined CAP and began my journey in aerospace education and military training."
-    }
-  ],
-  
+      "date": "2024",
   "awards": [
     {
-      "icon": "🏆",
-      "title": "Leadership Excellence Award",
+      "icon": "🥇",
+      "title": "AFA Cadet of the Year",
       "date": "2024",
-      "description": "Awarded for outstanding leadership and dedication to cadet development."
+      "description": "Outstanding achievement and service recognition."
+    },
+    {
+      "icon": "🏆",
+      "title": "Achievement Ribbon - CyberPatriot Leadership",
+      "date": "2024",
+      "description": "Recognized for leading team to National Semifinalist status."
+    },
+    {
+      "icon": "🏆",
+      "title": "Achievement Ribbon - Encampment Staff",
+      "date": "2025",
+      "description": "Exceptional service as Flight Commander and Training Officer."
     },
     {
       "icon": "🎖️",
-      "title": "CAP Ribbon of Appreciation",
-      "date": "2023",
-      "description": "Recognition of significant contributions to squadron operations."
+      "title": "3× Encampment Ribbons",
+      "date": "2024-2025",
+      "description": "Recognition for participation and leadership at multiple encampments."
     },
     {
-      "icon": "📜",
-      "title": "Aerospace Education Certificate",
-      "date": "2022",
-      "description": "Completion of CAP's comprehensive aerospace education program."
+      "icon": "🎖️",
+      "title": "3× NCSA Ribbons",
+      "date": "2023-2025",
+      "description": "National Cadet Special Activities participation."
     },
     {
-      "icon": "⭐",
-      "title": "Distinguished Cadet Award",
-      "date": "2021",
-      "description": "Achievement in academic excellence and cadet development."
-    },
-    {
-      "icon": "🎯",
-      "title": "Orientation Pilot Certificate",
-      "date": "2023",
-      "description": "Completion of CAP orientation flight training."
-    }
-  ],
-  
+      "icon": "📣",
   "activities": [
     {
+      "type": "National Activity",
+      "title": "SUPT-FC - Specialized Undergraduate Pilot Training",
+      "date": "2025",
+      "description": "Advanced pilot training program at Columbus Air Force Base, Mississippi. Intensive instruction in advanced flight operations and air force integration."
+    },
+    {
+      "type": "National Activity",
+      "title": "Power Flight Academy",
+      "date": "2025",
+      "description": "Advanced pilot training in Fremont, Nebraska. Logged approximately 9 hours including solo flight, demonstrating proficiency in powered aircraft operations."
+    },
+    {
+      "type": "National Activity",
+      "title": "Aircraft Manufacturing Academy",
+      "date": "2025",
+      "description": "Intensive aerospace manufacturing program in Wichita, Kansas, exploring aircraft systems, production processes, and engineering principles."
+    },
+    {
       "type": "Encampment",
-      "title": "Summer Encampment 2024",
-      "date": "June 2024",
-      "description": "Participated in week-long regional encampment focusing on aerospace training, leadership development, and team building."
+      "title": "Kentucky Wing Encampment 2025",
+      "date": "Summer 2025",
+      "description": "Served as Cadet Training Officer and Public Affairs Officer for 200+ cadets. Managed training curriculum and external communications."
+    },
+    {
+      "type": "Encampment",
+      "title": "Ohio Wing Summer Encampment 2025",
+      "date": "Summer 2025",
+      "description": "Commanded Advanced Training Squadron Flight, overseeing advanced cadet training and operations."
+    },
+    {
+      "type": "Encampment",
+      "title": "Florida Winter Encampment",
+      "date": "2024",
+      "description": "Completed intensive winter encampment focusing on advanced leadership, aerospace principles, and cadet development."
     },
     {
       "type": "Emergency Services",
-      "title": "Search and Rescue Operations",
-      "date": "Ongoing",
-      "description": "Participated in multiple SAR missions supporting local and regional search operations. Trained in emergency procedures and ground support."
+  "gallery": [
+    {
+      "src": "Images/Profile_CAP.png",
+      "caption": "Profile Photo - Cadet Captain Michael Gledhill"
     },
     {
-      "type": "Community Service",
-      "title": "Local Food Bank Volunteer",
-      "date": "2024",
-      "description": "Led squadron volunteer effort at community food bank, impacting 200+ families in need."
+      "src": "Images/PFA1.jpg",
+      "caption": "Power Flight Academy Training 2025"
     },
+    {
+      "src": "Images/Flight.jpg",
+      "caption": "CAP Orientation Flight"
+    },
+    {
+      "src": "Images/ENC1.jpg",
+      "caption": "Kentucky Wing Encampment 2025"
+    },
+    {
+      "src": "Images/ENC2.jpg",
+      "caption": "Encampment Training Operations"
+    },
+    {
+      "src": "Images/SUPT1.jpg",
+      "caption": "SUPT-FC Training - Columbus Air Force Base"
+    },
+    {
+      "src": "Images/SUPT2.jpg",
+      "caption": "Advanced Pilot Training"
+    },
+    {
+      "src": "Images/AMA.jpg",
+      "caption": "Aircraft Manufacturing Academy - Wichita, Kansas"
+    },
+    {
+      "src": "Images/SAREX.jpg",
+  "skills": {
+    "leadership": [
+      "Team Leadership",
+      "Strategic Planning",
+      "Decision Making",
+      "Conflict Resolution",
+      "Mentorship",
+      "Public Speaking",
+      "Cadet Development",
+      "Operations Management",
+      "Public Affairs",
+      "Delegation"
+    ],
+    "technical": [
+      "Aeronautics & Flight Operations",
+      "Cybersecurity (CyberPatriot)",
+      "Aircraft Systems",
+      "Flight Training",
+      "Aerospace Engineering",
+      "Emergency Procedures",
+      "ICS/FEMA Training",
+      "Mission Planning",
+      "Risk Management",
+      "STEM Education"
+    ],
+    "certifications": [
+      "CAP: GES, ICUT, SET, CERT*, MRO, MSA, UDF*, GTM3*",
+      "FEMA ICS: IS-100, 200, 368, 520, 700, 800",
+      "CyberPatriot: Team Captain, National Semifinalist 2023 & 2024",
+      "Sporty's Online Ground School",
+      "Powered Solo Wings Certification"
+    ]
+  },},
     {
       "type": "Competition",
       "title": "Regional Drill Competition",
