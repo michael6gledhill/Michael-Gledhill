@@ -22,7 +22,6 @@ The portfolio now displays three official organizational logos prominently at th
 ### 2. Image Files Renamed
 All placeholder images have been replaced with official branded files:
 
-
 | Old Name | New Name | Status |
 |----------|----------|--------|
 | `wing-logo-placeholder.png` | `kentucky-wing-logo.png` | ✅ Active |
